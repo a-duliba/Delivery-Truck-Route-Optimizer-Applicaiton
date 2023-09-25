@@ -140,7 +140,7 @@ deliveringPackages(truck3)
 
 class Main:
     # User Interface
-    # Prompts the user with a message that has calculated the total miles traveled by all WGU trucks
+    # Prompts the user with a message that has calculated the total miles traveled by all WGU trucks.8
     print("Western Governors University Parcel Service (WGUPS)")
     print("The total mileage traveled by all trucks is:")
     print(truck1.mileage + truck2.mileage + truck3.mileage)
